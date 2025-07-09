@@ -115,7 +115,7 @@ This repository implements a lightweight, modular framework for simulating and a
 
 ### Installation
 
-To get started, it is required to have Matlab version R2023b with simulink installed.
+To get started, it is required to have Matlab version [R2023b]() with simulink installed.
 
 Refer to this installation link: https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html
 

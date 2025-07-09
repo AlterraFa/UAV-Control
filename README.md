@@ -37,7 +37,7 @@
     <a href="https://github.com/AlterraFa/UAV-Control"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AlterraFa/UAV-Control">View Demo</a>
+    <a href="media/Flight.gif">View Demo</a>
     &middot;
     <a href="https://github.com/AlterraFa/UAV-Control/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
@@ -180,7 +180,8 @@ Project Link: [https://github.com/AlterraFa/UAV-Control](https://github.com/Alte
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 I would like to thank my mentor for making this project possible 
-* [Ha Le Nhu Ngoc Thanh](Mentor-url)
+
+* [Ha Le Nhu Ngoc Thanh][mentor-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,4 +201,4 @@ I would like to thank my mentor for making this project possible
 [license-url]: https://github.com/AlterraFa/UAV-Control/blob/master/LICENSE.txt
 [Flight-gif]: media/Flight.gif
 [Architecture]: media/Architeture.png
-[Mentor-url]: https://sites.google.com/view/halenhungocthanh/homepage
+[mentor-url]: https://sites.google.com/view/halenhungocthanh/homepage
